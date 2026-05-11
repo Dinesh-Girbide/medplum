@@ -1,0 +1,12 @@
+{
+  "name": "anthara-code",
+  "version": "1.2.2",
+  "description": "Spec-driven development plugin for healthtech and fintech engineering teams using Anthara — workflow, memory, pack-derived standards, and AI-readiness scan results via Fabric MCP",
+  "author": {
+    "name": "Anthara AI",
+    "url": "https://anthara.ai"
+  },
+  "repository": "https://github.com/anthara-ai/anthara-code",
+  "license": "UNLICENSED",
+  "keywords": ["sdd", "compliance", "healthtech", "fintech", "memory", "standards", "scan-results", "ai-readiness", "anthara", "fabric", "discovery", "design"]
+}
