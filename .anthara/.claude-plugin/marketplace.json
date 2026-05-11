@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "anthara",
+  "owner": {
+    "name": "Anthara AI",
+    "url": "https://anthara.ai"
+  },
+  "plugins": [
+    {
+      "name": "anthara-code",
+      "source": "./anthara-code",
+      "version": "1.2.2",
+      "description": "Spec-driven development plugin for healthtech and fintech engineering teams using Anthara — workflow, memory, pack-derived standards, and AI-readiness scan results via Fabric MCP"
+    }
+  ]
+}
