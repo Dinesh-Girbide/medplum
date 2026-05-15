@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "fabric": {
+      "type": "http",
+      "url": "https://medplum.anthara.ai/fabric/mcp/anthara",
+      "headers": {
+        "Authorization": "Bearer ${ANTHARA_API_KEY}"
+      }
+    },
+    "codebase-memory-mcp": {
+      "command": "codebase-memory-mcp",
+      "args": []
+    }
+  }
+}

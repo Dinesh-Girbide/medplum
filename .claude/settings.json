@@ -5,16 +5,9 @@
       "Bash(git remote get-url *)"
     ]
   },
-  "extraKnownMarketplaces": {
-    "anthara": {
-      "source": {
-        "source": "directory",
-        "path": ".anthara"
-      }
-    }
-  },
   "enabledPlugins": {
-    "anthara-code@anthara": true
+    "anthara-code@anthara": true,
+    "anthara@anthara": true
   },
   "hooks": {
     "PreToolUse": [
@@ -73,5 +66,13 @@
         ]
       }
     ]
+  },
+  "extraKnownMarketplaces": {
+    "anthara": {
+      "source": {
+        "source": "directory",
+        "path": ".anthara"
+      }
+    }
   }
 }
