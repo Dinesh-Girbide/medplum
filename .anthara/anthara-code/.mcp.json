@@ -1,9 +1,0 @@
-{
-  "fabric": {
-    "type": "http",
-    "url": "${ANTHARA_FABRIC_URL}/mcp/${ANTHARA_MEMORY_GROUP}",
-    "headers": {
-      "Authorization": "Bearer ${ANTHARA_API_KEY}"
-    }
-  }
-}
